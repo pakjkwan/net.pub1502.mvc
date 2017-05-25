@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;net.cgv1502.mvc&apos; to &apos;net.pub1502.mvc&apos;" description="Rename resource &apos;net.cgv1502.mvc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/net.cgv1502.mvc" name="net.pub1502.mvc" stamp="1495695926500" updateReferences="true"/>
+</session>
